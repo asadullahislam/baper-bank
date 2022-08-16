@@ -42,7 +42,7 @@ document.getElementById('btn-withdraw').addEventListener('click', function () {
     withdrawField.value = '';
 
     if (newWithdrawAmount > previousBalanceTotal) {
-        alert('Baap er bank e ato taka nai');
+        alert('Not Enough Money');
         return;
     }
 

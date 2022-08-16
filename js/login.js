@@ -23,7 +23,7 @@ document.getElementById('btn-submit').addEventListener('click', function () {
 
     }
     else {
-        alert(' tui password vule gasos !!! .toke ami teijjo sontan gosona korlam .  ');
+        alert(' Incorrect password  ');
     }
 
 
