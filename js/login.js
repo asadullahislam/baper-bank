@@ -18,7 +18,7 @@ document.getElementById('btn-submit').addEventListener('click', function () {
     //DANGER:  do not verify email password on the client 
 
     // step - 4: varify email and password and check whether valid user or not 
-    if (email === 'sontan@bap.com' && password === 'secret') {
+    if (email === 'asadullah.com' && password === 'secret') {
         window.location.href = 'bankk.html';
 
     }
